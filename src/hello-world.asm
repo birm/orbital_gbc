@@ -1,5 +1,5 @@
 ; Orbital
-; John Harrison
+; Ryan Birmingham
 ; Based on "rgbds template" from John Harrison
 
 INCLUDE "gbhw.inc" ; standard hardware definitions from devrs.com
