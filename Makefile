@@ -3,8 +3,8 @@ LINK = rgblink
 FIX = rgbfix
 
 #Change the following lines
-ROM_NAME = hello-world
-SOURCES = src/memory.asm src/hello-world.asm
+ROM_NAME = orbital
+SOURCES = src/memory.asm src/orbital.asm
 FIX_FLAGS = -v -p 0
 
 
